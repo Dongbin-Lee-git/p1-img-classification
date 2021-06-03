@@ -9,4 +9,4 @@ COVID-19의 확산으로 우리나라는 물론 전 세계 사람들은 경제�
 ---
 
 Pytorch, tensorflow를 사용해본 경험이 있고, 이후 competition들보다는 간단한 task이기에 이번 기회에 Fastai를 사용해 볼수있는 좋은 기회였다.
-자세한 내용은 wrap_up.docx에 기록
+자세한 내용은 wrap_up.pdf에 기록
